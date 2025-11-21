@@ -98,7 +98,3 @@ Contributions are welcome! You can:
 
 This project is licensed under the **MIT License**.
 ---
-
-If you want, I can also **make a shorter, modern version** that’s perfect for **GitHub**, with badges and a very clean layout. It’ll look very professional.
-
-Do you want me to do that?
