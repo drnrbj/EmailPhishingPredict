@@ -52,7 +52,7 @@ If deployed, users can run the web app locally or online to **paste an email** a
 1. Start the Streamlit app:
 
    ```bash
-   streamlit run app.py
+   streamlit run email_phishing.py
    ```
 2. Open the link provided in your browser.
 3. Paste the email content into the input box.
